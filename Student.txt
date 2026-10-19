@@ -1,1 +1,6 @@
 Student Information
+name : Sai 
+roll no : 249
+location : Pune
+age : 18
+Stream : SE   Div : B
